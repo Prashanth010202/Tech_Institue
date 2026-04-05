@@ -5,19 +5,19 @@
 </p>
 
 <p align="center">
-  <a href="https://pawankumar16122114.github.io/Institute-of-tech/#/contact">
+  <a href="https://prashanth010202.github.io/Tech_Institue/">
     <img src="https://img.shields.io/badge/🌐 Live Preview-Visit Now-orange?style=for-the-badge&logo=google-chrome">
   </a>
-  <img src="https://img.shields.io/github/stars/Pawankumar16122114/Institute-of-tech?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/Pawankumar16122114/Institute-of-tech?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/Pawankumar16122114/Institute-of-tech?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Prashanth010202/Tech_Institue?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Prashanth010202/Tech_Institue?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Prashanth010202/Tech_Institue?style=for-the-badge">
 </p>
 
 ---
 
 ## 🌐 Live Experience
 
-👉 https://pawankumar16122114.github.io/Institute-of-tech/#/contact  
+👉 https://prashanth010202.github.io/Tech_Institue/  
 
   ➜  Local:   http://localhost:5173/KPP/<br>
   ➜  Network: http://10.148.98.166:5173/KPP/
@@ -217,7 +217,7 @@ Backend (optional):
 ```
 -🚀 Run Locally
 ```
-git clone https://github.com/Pawankumar16122114/Institute-of-tech.git
+git clone https://github.com/Prashanth010202/Tech_Institue.git
 cd Institute-of-tech
 npm install
 npm run dev
@@ -238,11 +238,11 @@ npm run deploy
 
 
 -👨‍💻 Author
--Pavan Kumar Bukka 
+-Prashanth TS 
 
- -🔗 https://github.com/Pawankumar16122114 
+ -🔗 https://github.com/Prashanth010202
 
- -🔗 https://www.linkedin.com/in/pawankumar-bukka-333
+ -🔗 https://www.linkedin.com/in/prashanth-ts-689401360
 
 
 -⭐ Final Thought
