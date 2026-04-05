@@ -19,6 +19,9 @@
 
 👉 https://pawankumar16122114.github.io/Institute-of-tech/#/contact  
 
+  ➜  Local:   http://localhost:5173/KPP/<br>
+  ➜  Network: http://10.148.98.166:5173/KPP/
+
 ---
 
 ## Quick start
